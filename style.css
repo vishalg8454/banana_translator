@@ -1,0 +1,33 @@
+ @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto+Mono:ital,wght@0,300;1,100&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Pacifico';
+}
+textarea{
+    width: 50%;
+    margin: 10px;
+    border: 2px solid black;
+}
+div{
+    text-align: center;
+}
+button{
+    margin: 10px;
+    border: 0;
+    background-color: yellow;
+    padding: 10px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+} 
+
